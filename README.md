@@ -10,14 +10,4 @@ Try it online here: [Hugging Face Space](https://huggingface.co/spaces/shreyaB71
 - **Language Support:** Summarize in English, Spanish, French, Hindi, or German  
 - **User-Friendly Interface:** Built with Gradio  
 
-## 🛠️ Installation
-1. Clone the repository:
-git clone https://github.com/shreyaB7134/text-summarizer.git
-cd text-summarizer
-
-## Install dependencies:
-pip install -r requirements.txt
-
-## Run the app:
-python app.py
 
